@@ -1,0 +1,114 @@
+Fire_effect.png
+size:1024,256
+filter:Linear,Linear
+pma:true
+Fire 018_0
+bounds:799,10,45,99
+offsets:41,2,125,125
+rotate:90
+Fire 018_1
+bounds:697,19,44,100
+offsets:41,2,125,125
+rotate:90
+Fire 018_10
+bounds:343,44,49,106
+offsets:39,2,125,125
+rotate:90
+Fire 018_11
+bounds:697,65,48,106
+offsets:40,2,125,125
+rotate:90
+Fire 018_12
+bounds:244,2,49,104
+offsets:38,2,125,125
+Fire 018_13
+bounds:921,208,46,101
+offsets:40,2,125,125
+rotate:90
+Fire 018_14
+bounds:921,160,46,101
+offsets:42,2,125,125
+rotate:90
+Fire 018_15
+bounds:921,111,47,98
+offsets:41,2,125,125
+rotate:90
+Fire 018_2
+bounds:593,102,44,102
+offsets:41,2,125,125
+rotate:90
+Fire 018_3
+bounds:590,55,45,105
+offsets:41,2,125,125
+rotate:90
+Fire 018_4
+bounds:809,108,47,107
+offsets:39,2,125,125
+rotate:90
+Fire 018_5
+bounds:698,115,46,109
+offsets:39,2,125,125
+rotate:90
+Fire 018_6
+bounds:367,95,44,107
+offsets:40,2,125,125
+rotate:90
+Fire 018_7
+bounds:481,97,44,107
+offsets:39,2,125,125
+rotate:90
+Fire 018_8
+bounds:295,2,46,104
+offsets:37,2,125,125
+Fire 018_9
+bounds:805,57,49,102
+offsets:36,2,125,125
+rotate:90
+Liquid 050 Explosion0
+bounds:416,16,26,26
+offsets:63,62,150,150
+Liquid 050 Explosion1
+bounds:451,36,52,57
+offsets:56,45,150,150
+Liquid 050 Explosion10
+bounds:2,133,121,121
+offsets:24,12,150,150
+Liquid 050 Explosion11
+bounds:698,163,91,117
+offsets:29,14,150,150
+rotate:90
+Liquid 050 Explosion12
+bounds:918,36,75,73
+offsets:37,38,150,150
+Liquid 050 Explosion13
+bounds:505,21,75,74
+offsets:37,37,150,150
+Liquid 050 Explosion14
+bounds:343,9,33,71
+offsets:54,40,150,150
+rotate:90
+Liquid 050 Explosion2
+bounds:817,157,97,102
+offsets:33,17,150,150
+rotate:90
+Liquid 050 Explosion3
+bounds:593,148,103,106
+offsets:32,16,150,150
+Liquid 050 Explosion4
+bounds:481,143,110,111
+offsets:29,15,150,150
+Liquid 050 Explosion5
+bounds:367,141,112,113
+offsets:29,14,150,150
+Liquid 050 Explosion6
+bounds:247,137,118,117
+offsets:25,13,150,150
+Liquid 050 Explosion7
+bounds:125,12,117,119
+offsets:24,12,150,150
+Liquid 050 Explosion8
+bounds:2,10,121,121
+offsets:24,11,150,150
+Liquid 050 Explosion9
+bounds:125,133,120,121
+offsets:24,10,150,150

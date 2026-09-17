@@ -1,0 +1,208 @@
+{
+"skeleton": {
+	"hash": "CUGQQW1GRWw",
+	"spine": "4.1.24",
+	"x": -416.41,
+	"y": -71.93,
+	"width": 850.6,
+	"height": 138.51,
+	"images": "./Images/",
+	"audio": "D:/Thushal/Temp/New Works/Domenicod88/Project_1/Wins/Spine/Images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Fire/fire_0", "parent": "root", "x": -5.94, "y": 11.27, "scaleX": 2.2172, "scaleY": 1.3851 },
+	{ "name": "Fire/fire_1", "parent": "root", "x": 23.73, "y": 11.27, "scaleX": -2.2172, "scaleY": 1.3851 },
+	{ "name": "Shine/fire_0", "parent": "root", "x": 72.09, "y": 11.49, "scaleX": 2.4657, "scaleY": 3.3022 },
+	{ "name": "Shine/fire_1", "parent": "root", "x": -94.35, "y": 11.49, "scaleX": -1.9383, "scaleY": 2.5959 }
+],
+"slots": [
+	{ "name": "Fire/fire_0", "bone": "Fire/fire_0", "attachment": "Fire/fire_0", "blend": "additive" },
+	{ "name": "Fire/fire_1", "bone": "Fire/fire_1", "attachment": "Fire/fire_0", "blend": "additive" },
+	{ "name": "Shine/fire_0", "bone": "Shine/fire_0", "blend": "additive" },
+	{ "name": "Shine/fire_1", "bone": "Shine/fire_1", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Fire/fire_0": {
+				"Fire/fire_0": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_1": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_2": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_3": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_4": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_5": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_6": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_7": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_8": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_9": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_10": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_11": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_12": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_13": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_14": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_15": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_16": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_17": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_18": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_19": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 }
+			},
+			"Fire/fire_1": {
+				"Fire/fire_0": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_1": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_2": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_3": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_4": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_5": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_6": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_7": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_8": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_9": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_10": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_11": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_12": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_13": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_14": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_15": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_16": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_17": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_18": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 },
+				"Fire/fire_19": { "x": 98.51, "y": -10.07, "width": 200, "height": 100 }
+			},
+			"Shine/fire_0": {
+				"Shine/fire_0": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_1": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_2": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_3": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_4": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_5": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_6": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_7": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_8": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_9": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_10": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_11": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_12": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_13": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_14": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_15": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_16": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 }
+			},
+			"Shine/fire_1": {
+				"Shine/fire_0": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_1": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_2": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_3": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_4": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_5": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_6": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_7": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_8": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_9": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_10": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_11": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_12": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_13": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_14": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_15": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 },
+				"Shine/fire_16": { "x": -14.15, "y": -2.65, "width": 200, "height": 42 }
+			}
+		}
+	}
+],
+"animations": {
+	"coin": {
+		"slots": {
+			"Fire/fire_0": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Fire/fire_1" },
+					{ "time": 0.1333, "name": "Fire/fire_2" },
+					{ "time": 0.2, "name": "Fire/fire_3" },
+					{ "time": 0.2667, "name": "Fire/fire_4" },
+					{ "time": 0.3333, "name": "Fire/fire_5" },
+					{ "time": 0.4, "name": "Fire/fire_6" },
+					{ "time": 0.4667, "name": "Fire/fire_7" },
+					{ "time": 0.5333, "name": "Fire/fire_8" },
+					{ "time": 0.6, "name": "Fire/fire_9" },
+					{ "time": 0.6667, "name": "Fire/fire_10" },
+					{ "time": 0.7333, "name": "Fire/fire_11" },
+					{ "time": 0.8, "name": "Fire/fire_12" },
+					{ "time": 0.8667, "name": "Fire/fire_13" },
+					{ "time": 0.9333, "name": "Fire/fire_14" },
+					{ "time": 1, "name": "Fire/fire_15" },
+					{ "time": 1.0667, "name": "Fire/fire_16" },
+					{ "time": 1.1333, "name": "Fire/fire_17" },
+					{ "time": 1.2, "name": "Fire/fire_18" },
+					{ "time": 1.2667, "name": "Fire/fire_19" }
+				]
+			},
+			"Fire/fire_1": {
+				"attachment": [
+					{ "time": 0.0667, "name": "Fire/fire_1" },
+					{ "time": 0.1333, "name": "Fire/fire_2" },
+					{ "time": 0.2, "name": "Fire/fire_3" },
+					{ "time": 0.2667, "name": "Fire/fire_4" },
+					{ "time": 0.3333, "name": "Fire/fire_5" },
+					{ "time": 0.4, "name": "Fire/fire_6" },
+					{ "time": 0.4667, "name": "Fire/fire_7" },
+					{ "time": 0.5333, "name": "Fire/fire_8" },
+					{ "time": 0.6, "name": "Fire/fire_9" },
+					{ "time": 0.6667, "name": "Fire/fire_10" },
+					{ "time": 0.7333, "name": "Fire/fire_11" },
+					{ "time": 0.8, "name": "Fire/fire_12" },
+					{ "time": 0.8667, "name": "Fire/fire_13" },
+					{ "time": 0.9333, "name": "Fire/fire_14" },
+					{ "time": 1, "name": "Fire/fire_15" },
+					{ "time": 1.0667, "name": "Fire/fire_16" },
+					{ "time": 1.1333, "name": "Fire/fire_17" },
+					{ "time": 1.2, "name": "Fire/fire_18" },
+					{ "time": 1.2667, "name": "Fire/fire_19" }
+				]
+			},
+			"Shine/fire_0": {
+				"attachment": [
+					{ "name": "Shine/fire_0" },
+					{ "time": 0.0667, "name": "Shine/fire_1" },
+					{ "time": 0.1333, "name": "Shine/fire_2" },
+					{ "time": 0.2, "name": "Shine/fire_3" },
+					{ "time": 0.2667, "name": "Shine/fire_4" },
+					{ "time": 0.3333, "name": "Shine/fire_5" },
+					{ "time": 0.4, "name": "Shine/fire_6" },
+					{ "time": 0.4667, "name": "Shine/fire_7" },
+					{ "time": 0.5333, "name": "Shine/fire_8" },
+					{ "time": 0.6, "name": "Shine/fire_9" },
+					{ "time": 0.6667, "name": "Shine/fire_10" },
+					{ "time": 0.7333, "name": "Shine/fire_11" },
+					{ "time": 0.8, "name": "Shine/fire_12" },
+					{ "time": 0.8667, "name": "Shine/fire_13" },
+					{ "time": 0.9333, "name": "Shine/fire_14" },
+					{ "time": 1, "name": "Shine/fire_15" },
+					{ "time": 1.0667, "name": "Shine/fire_16" }
+				]
+			},
+			"Shine/fire_1": {
+				"attachment": [
+					{ "name": "Shine/fire_0" },
+					{ "time": 0.0667, "name": "Shine/fire_1" },
+					{ "time": 0.1333, "name": "Shine/fire_2" },
+					{ "time": 0.2, "name": "Shine/fire_3" },
+					{ "time": 0.2667, "name": "Shine/fire_4" },
+					{ "time": 0.3333, "name": "Shine/fire_5" },
+					{ "time": 0.4, "name": "Shine/fire_6" },
+					{ "time": 0.4667, "name": "Shine/fire_7" },
+					{ "time": 0.5333, "name": "Shine/fire_8" },
+					{ "time": 0.6, "name": "Shine/fire_9" },
+					{ "time": 0.6667, "name": "Shine/fire_10" },
+					{ "time": 0.7333, "name": "Shine/fire_11" },
+					{ "time": 0.8, "name": "Shine/fire_12" },
+					{ "time": 0.8667, "name": "Shine/fire_13" },
+					{ "time": 0.9333, "name": "Shine/fire_14" },
+					{ "time": 1, "name": "Shine/fire_15" },
+					{ "time": 1.0667, "name": "Shine/fire_16" }
+				]
+			}
+		}
+	}
+}
+}

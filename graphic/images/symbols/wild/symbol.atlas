@@ -1,0 +1,10 @@
+symbol.png
+size:244,180
+filter:Linear,Linear
+pma:true
+bottle
+bounds:2,2,176,192
+rotate:90
+wild
+bounds:196,39,139,44
+rotate:90

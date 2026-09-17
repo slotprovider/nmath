@@ -1,0 +1,33 @@
+bg.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+scale:0.9
+BG
+bounds:2,1037,1730,974
+Layer 1
+bounds:1631,467,80,122
+offsets:7,4,92,134
+Layer 2
+bounds:1985,1929,61,82
+offsets:3,3,67,88
+Layer 3
+bounds:1540,169,72,90
+offsets:6,3,96,96
+bubbles
+bounds:1339,76,199,183
+light_1
+bounds:1734,735,1276,249
+offsets:5,211,1286,460
+rotate:90
+light_2
+bounds:2,101,1335,488
+offsets:0,113,1445,606
+light_3
+bounds:2,591,1727,444
+offsets:0,0,1729,446
+light_4
+bounds:2,2,422,97
+offsets:6,3,430,102
+tree
+bounds:1339,261,290,328

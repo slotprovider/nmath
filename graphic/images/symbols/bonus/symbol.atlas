@@ -1,0 +1,12 @@
+symbol.png
+size:368,184
+filter:Linear,Linear
+pma:true
+Bg
+bounds:153,26,151,156
+ch
+bounds:2,10,172,149
+rotate:90
+text
+bounds:306,2,180,60
+rotate:90

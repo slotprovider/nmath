@@ -1,0 +1,266 @@
+{
+"skeleton": {
+	"hash": "QmX3N6FYxyo",
+	"spine": "4.1.24",
+	"x": -219.95,
+	"y": -183.38,
+	"width": 424.25,
+	"height": 358.77,
+	"images": "./Images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{
+		"name": "Fire 018_0",
+		"parent": "root",
+		"length": 35.05,
+		"rotation": -143.21,
+		"x": -73.68,
+		"y": -48.04,
+		"scaleX": 2,
+		"scaleY": 2
+	},
+	{ "name": "Liquid 050 Explosion0", "parent": "root", "x": 130.62, "y": 101.11, "scaleX": 1.4, "scaleY": 1.4 }
+],
+"slots": [
+	{ "name": "ref", "bone": "root" },
+	{ "name": "vfx/Slash_0", "bone": "Fire 018_0", "attachment": "vfx/Slash_0" },
+	{ "name": "vfx/Slash_1", "bone": "Fire 018_0", "attachment": "vfx/Slash_0", "blend": "additive" },
+	{ "name": "vfx/splash_0", "bone": "Liquid 050 Explosion0", "attachment": "vfx/splash_0" },
+	{ "name": "vfx/splash_1", "bone": "Liquid 050 Explosion0", "attachment": "vfx/splash_0", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"vfx/Slash_0": {
+				"vfx/Slash_0": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_1": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_2": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_3": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_4": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_5": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_6": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_7": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_8": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_9": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_10": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_11": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_12": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_13": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_14": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_15": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_16": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_17": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_18": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_19": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_20": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_21": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 }
+			},
+			"vfx/Slash_1": {
+				"vfx/Slash_0": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_1": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_2": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_3": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_4": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_5": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_6": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_7": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_8": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_9": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_10": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_11": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_12": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_13": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_14": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_15": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_16": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_17": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_18": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_19": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_20": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 },
+				"vfx/Slash_21": { "x": 34.09, "y": 3.11, "rotation": 4.76, "width": 100, "height": 31 }
+			},
+			"vfx/splash_0": {
+				"vfx/splash_0": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_1": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_2": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_3": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_4": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_5": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_6": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_7": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_8": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_9": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_10": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_11": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_12": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_13": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 }
+			},
+			"vfx/splash_1": {
+				"vfx/splash_0": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_1": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_2": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_3": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_4": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_5": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_6": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_7": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_8": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_9": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_10": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_11": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_12": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 },
+				"vfx/splash_13": { "x": 2.62, "y": 3.06, "width": 100, "height": 100 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"vfx/Slash_0": {
+				"attachment": [
+					{ "time": 0.0333, "name": "vfx/Slash_1" },
+					{ "time": 0.0667, "name": "vfx/Slash_2" },
+					{ "time": 0.1, "name": "vfx/Slash_3" },
+					{ "time": 0.1333, "name": "vfx/Slash_4" },
+					{ "time": 0.1667, "name": "vfx/Slash_5" },
+					{ "time": 0.2, "name": "vfx/Slash_6" },
+					{ "time": 0.2333, "name": "vfx/Slash_2" },
+					{ "time": 0.2667, "name": "vfx/Slash_3" },
+					{ "time": 0.3, "name": "vfx/Slash_4" },
+					{ "time": 0.3333, "name": "vfx/Slash_5" },
+					{ "time": 0.3667, "name": "vfx/Slash_6" },
+					{ "time": 0.4, "name": "vfx/Slash_2" },
+					{ "time": 0.4333, "name": "vfx/Slash_3" },
+					{ "time": 0.4667, "name": "vfx/Slash_4" },
+					{ "time": 0.5, "name": "vfx/Slash_5" },
+					{ "time": 0.5333, "name": "vfx/Slash_6" },
+					{ "time": 0.5667, "name": "vfx/Slash_2" },
+					{ "time": 0.6, "name": "vfx/Slash_3" },
+					{ "time": 0.6333, "name": "vfx/Slash_4" },
+					{ "time": 0.6667, "name": "vfx/Slash_5" },
+					{ "time": 0.7, "name": "vfx/Slash_6" },
+					{ "time": 0.7333, "name": "vfx/Slash_7" },
+					{ "time": 0.7667, "name": "vfx/Slash_8" },
+					{ "time": 0.8, "name": "vfx/Slash_9" },
+					{ "time": 0.8333, "name": "vfx/Slash_10" },
+					{ "time": 0.8667, "name": "vfx/Slash_11" },
+					{ "time": 0.9, "name": "vfx/Slash_12" },
+					{ "time": 0.9333, "name": "vfx/Slash_13" },
+					{ "time": 0.9667, "name": "vfx/Slash_14" },
+					{ "time": 1, "name": "vfx/Slash_15" },
+					{ "time": 1.0333, "name": "vfx/Slash_16" },
+					{ "time": 1.0667, "name": "vfx/Slash_17" },
+					{ "time": 1.1, "name": "vfx/Slash_18" },
+					{ "time": 1.1333, "name": "vfx/Slash_19" },
+					{ "time": 1.1667, "name": "vfx/Slash_20" },
+					{ "time": 1.2, "name": "vfx/Slash_21" }
+				]
+			},
+			"vfx/Slash_1": {
+				"attachment": [
+					{ "time": 0.0333, "name": "vfx/Slash_1" },
+					{ "time": 0.0667, "name": "vfx/Slash_2" },
+					{ "time": 0.1, "name": "vfx/Slash_3" },
+					{ "time": 0.1333, "name": "vfx/Slash_4" },
+					{ "time": 0.1667, "name": "vfx/Slash_5" },
+					{ "time": 0.2, "name": "vfx/Slash_6" },
+					{ "time": 0.2333, "name": "vfx/Slash_2" },
+					{ "time": 0.2667, "name": "vfx/Slash_3" },
+					{ "time": 0.3, "name": "vfx/Slash_4" },
+					{ "time": 0.3333, "name": "vfx/Slash_5" },
+					{ "time": 0.3667, "name": "vfx/Slash_6" },
+					{ "time": 0.4, "name": "vfx/Slash_2" },
+					{ "time": 0.4333, "name": "vfx/Slash_3" },
+					{ "time": 0.4667, "name": "vfx/Slash_4" },
+					{ "time": 0.5, "name": "vfx/Slash_5" },
+					{ "time": 0.5333, "name": "vfx/Slash_6" },
+					{ "time": 0.5667, "name": "vfx/Slash_2" },
+					{ "time": 0.6, "name": "vfx/Slash_3" },
+					{ "time": 0.6333, "name": "vfx/Slash_4" },
+					{ "time": 0.6667, "name": "vfx/Slash_5" },
+					{ "time": 0.7, "name": "vfx/Slash_6" },
+					{ "time": 0.7333, "name": "vfx/Slash_7" },
+					{ "time": 0.7667, "name": "vfx/Slash_8" },
+					{ "time": 0.8, "name": "vfx/Slash_9" },
+					{ "time": 0.8333, "name": "vfx/Slash_10" },
+					{ "time": 0.8667, "name": "vfx/Slash_11" },
+					{ "time": 0.9, "name": "vfx/Slash_12" },
+					{ "time": 0.9333, "name": "vfx/Slash_13" },
+					{ "time": 0.9667, "name": "vfx/Slash_14" },
+					{ "time": 1, "name": "vfx/Slash_15" },
+					{ "time": 1.0333, "name": "vfx/Slash_16" },
+					{ "time": 1.0667, "name": "vfx/Slash_17" },
+					{ "time": 1.1, "name": "vfx/Slash_18" },
+					{ "time": 1.1333, "name": "vfx/Slash_19" },
+					{ "time": 1.1667, "name": "vfx/Slash_20" },
+					{ "time": 1.2, "name": "vfx/Slash_21" }
+				]
+			},
+			"vfx/splash_0": {
+				"attachment": [
+					{},
+					{ "time": 0.8, "name": "vfx/splash_0" },
+					{ "time": 0.8333, "name": "vfx/splash_1" },
+					{ "time": 0.8667, "name": "vfx/splash_2" },
+					{ "time": 0.9, "name": "vfx/splash_3" },
+					{ "time": 0.9333, "name": "vfx/splash_4" },
+					{ "time": 0.9667, "name": "vfx/splash_5" },
+					{ "time": 1, "name": "vfx/splash_6" },
+					{ "time": 1.0333, "name": "vfx/splash_7" },
+					{ "time": 1.0667, "name": "vfx/splash_8" },
+					{ "time": 1.1, "name": "vfx/splash_9" },
+					{ "time": 1.1333, "name": "vfx/splash_10" },
+					{ "time": 1.1667, "name": "vfx/splash_11" },
+					{ "time": 1.2, "name": "vfx/splash_12" },
+					{ "time": 1.2333, "name": "vfx/splash_13" },
+					{ "time": 1.3333 }
+				]
+			},
+			"vfx/splash_1": {
+				"attachment": [
+					{},
+					{ "time": 0.8, "name": "vfx/splash_0" },
+					{ "time": 0.8333, "name": "vfx/splash_1" },
+					{ "time": 0.8667, "name": "vfx/splash_2" },
+					{ "time": 0.9, "name": "vfx/splash_3" },
+					{ "time": 0.9333, "name": "vfx/splash_4" },
+					{ "time": 0.9667, "name": "vfx/splash_5" },
+					{ "time": 1, "name": "vfx/splash_6" },
+					{ "time": 1.0333, "name": "vfx/splash_7" },
+					{ "time": 1.0667, "name": "vfx/splash_8" },
+					{ "time": 1.1, "name": "vfx/splash_9" },
+					{ "time": 1.1333, "name": "vfx/splash_10" },
+					{ "time": 1.1667, "name": "vfx/splash_11" },
+					{ "time": 1.2, "name": "vfx/splash_12" },
+					{ "time": 1.2333, "name": "vfx/splash_13" },
+					{ "time": 1.3333 }
+				]
+			}
+		},
+		"bones": {
+			"Fire 018_0": {
+				"translate": [
+					{
+						"x": -41.56,
+						"y": -28.43,
+						"curve": [ 0.333, -41.56, 0.667, 272.75, 0.333, -28.43, 0.667, 199.73 ]
+					},
+					{ "time": 1, "x": 272.75, "y": 199.73 }
+				],
+				"scale": [
+					{
+						"x": 0.533,
+						"y": 0.601,
+						"curve": [ 0.222, 0.533, 0.444, 1, 0.222, 0.601, 0.444, 1 ]
+					},
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	}
+}
+}
