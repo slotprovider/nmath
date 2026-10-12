@@ -1,23 +1,54 @@
 symbol.png
-size:468,184
+size:1024,256
 filter:Linear,Linear
 pma:true
-Base
-bounds:180,34,145,38
+10
+bounds:185,69,167,180
+offsets:65,60,297,301
+blur
+bounds:2,69,181,180
+offsets:73,60,328,301
+vfx/Slash Radial_1
+bounds:87,12,55,64
+offsets:113,46,200,200
 rotate:90
-Glass
-bounds:220,43,103,136
-GlassHL
-bounds:180,5,99,27
-Glowing
-bounds:2,3,176,176
-InsideIce
-bounds:394,7,80,57
+vfx/Slash Radial_10
+bounds:901,150,99,120
+offsets:48,33,200,200
 rotate:90
-Orange
-bounds:397,108,69,71
-TopIce
-bounds:325,89,90,70
+vfx/Slash Radial_11
+bounds:620,34,91,115
+offsets:55,38,200,200
 rotate:90
-TopLeaf
-bounds:325,2,67,85
+vfx/Slash Radial_12
+bounds:2,24,83,43
+offsets:59,43,200,200
+vfx/Slash Radial_2
+bounds:901,65,83,114
+offsets:87,55,200,200
+rotate:90
+vfx/Slash Radial_3
+bounds:354,2,130,98
+offsets:38,77,200,200
+vfx/Slash Radial_4
+bounds:485,112,133,137
+offsets:33,39,200,200
+vfx/Slash Radial_5
+bounds:354,102,129,147
+offsets:33,29,200,200
+vfx/Slash Radial_6
+bounds:620,127,122,140
+offsets:33,29,200,200
+rotate:90
+vfx/Slash Radial_7
+bounds:762,143,106,137
+offsets:40,28,200,200
+rotate:90
+vfx/Slash Radial_8
+bounds:486,11,99,127
+offsets:43,29,200,200
+rotate:90
+vfx/Slash Radial_9
+bounds:762,43,98,124
+offsets:46,30,200,200
+rotate:90
