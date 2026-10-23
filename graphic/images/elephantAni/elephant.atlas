@@ -1,0 +1,29 @@
+elephant.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:567,309,42,115
+Layer 3
+bounds:859,566,42,102
+body
+bounds:2,115,563,886
+closeeye1
+bounds:1384,933,65,68
+offsets:2,2,69,73
+closeeye2
+bounds:380,45,65,68
+offsets:2,2,69,73
+ear_1
+bounds:859,670,264,331
+ear_2
+bounds:1125,670,257,331
+hang_1
+bounds:611,340,32,84
+hang_2
+bounds:567,220,35,87
+head
+bounds:567,426,290,575
+nose
+bounds:2,2,111,376
+rotate:90
