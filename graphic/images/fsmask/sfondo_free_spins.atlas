@@ -1,0 +1,7 @@
+sfondo_free_spins.png
+size:256,256
+filter:Linear,Linear
+pma:true
+smoke
+bounds:2,2,248,246
+offsets:3,6,256,256
